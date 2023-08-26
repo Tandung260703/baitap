@@ -1,0 +1,10 @@
+.wrapper-checkbox {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.checkbox-label.active {
+  text-decoration: line-through;
+}
